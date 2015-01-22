@@ -58,7 +58,7 @@ ul {
   border-bottom-color: #ccc;
   border-bottom-color: rgba(255, 255, 255, 0.2);
   background-color: rgba(140,199,214, 0.15);
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+ /** box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); */
 }
 
 span .stock-delete {
