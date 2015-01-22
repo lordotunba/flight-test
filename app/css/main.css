@@ -27,7 +27,9 @@ h3{
 	height:500px;
 }
 .form-wrapper{
-
+	width: 80%;
+	margin: 20px auto;
+	padding: 10px;
 }
 /**    stocks lists */
 
